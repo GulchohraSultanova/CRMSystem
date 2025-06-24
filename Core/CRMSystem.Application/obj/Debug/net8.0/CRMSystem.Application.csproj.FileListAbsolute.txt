@@ -1,0 +1,17 @@
+C:\Users\gulco\source\repos\CRMSystem\Core\CRMSystem.Application\bin\Debug\net8.0\CRMSystem.Application.deps.json
+C:\Users\gulco\source\repos\CRMSystem\Core\CRMSystem.Application\bin\Debug\net8.0\CRMSystem.Application.runtimeconfig.json
+C:\Users\gulco\source\repos\CRMSystem\Core\CRMSystem.Application\bin\Debug\net8.0\CRMSystem.Application.dll
+C:\Users\gulco\source\repos\CRMSystem\Core\CRMSystem.Application\bin\Debug\net8.0\CRMSystem.Application.pdb
+C:\Users\gulco\source\repos\CRMSystem\Core\CRMSystem.Application\bin\Debug\net8.0\CRMSystem.Domain.dll
+C:\Users\gulco\source\repos\CRMSystem\Core\CRMSystem.Application\bin\Debug\net8.0\CRMSystem.Domain.pdb
+C:\Users\gulco\source\repos\CRMSystem\Core\CRMSystem.Application\obj\Debug\net8.0\CRMSystem.Application.csproj.AssemblyReference.cache
+C:\Users\gulco\source\repos\CRMSystem\Core\CRMSystem.Application\obj\Debug\net8.0\CRMSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gulco\source\repos\CRMSystem\Core\CRMSystem.Application\obj\Debug\net8.0\CRMSystem.Application.AssemblyInfoInputs.cache
+C:\Users\gulco\source\repos\CRMSystem\Core\CRMSystem.Application\obj\Debug\net8.0\CRMSystem.Application.AssemblyInfo.cs
+C:\Users\gulco\source\repos\CRMSystem\Core\CRMSystem.Application\obj\Debug\net8.0\CRMSystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\gulco\source\repos\CRMSystem\Core\CRMSystem.Application\obj\Debug\net8.0\CRMSyste.7E25976E.Up2Date
+C:\Users\gulco\source\repos\CRMSystem\Core\CRMSystem.Application\obj\Debug\net8.0\CRMSystem.Application.dll
+C:\Users\gulco\source\repos\CRMSystem\Core\CRMSystem.Application\obj\Debug\net8.0\refint\CRMSystem.Application.dll
+C:\Users\gulco\source\repos\CRMSystem\Core\CRMSystem.Application\obj\Debug\net8.0\CRMSystem.Application.pdb
+C:\Users\gulco\source\repos\CRMSystem\Core\CRMSystem.Application\obj\Debug\net8.0\CRMSystem.Application.genruntimeconfig.cache
+C:\Users\gulco\source\repos\CRMSystem\Core\CRMSystem.Application\obj\Debug\net8.0\ref\CRMSystem.Application.dll
