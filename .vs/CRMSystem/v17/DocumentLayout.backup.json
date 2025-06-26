@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\presentation\\crmsystem.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|solutionrelative:presentation\\crmsystem.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\presentation\\crmsystem.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|solutionrelative:presentation\\crmsystem.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\presentation\\crmsystem.webapi\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|solutionrelative:presentation\\crmsystem.webapi\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\presentation\\crmsystem.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|solutionrelative:presentation\\crmsystem.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\presentation\\crmsystem.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|solutionrelative:presentation\\crmsystem.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\presentation\\crmsystem.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 74,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,20 +66,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Presentation\\CRMSystem.WebAPi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Presentation\\CRMSystem.WebAPi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Presentation\\CRMSystem.WebAPi\\appsettings.Development.json",
+              "RelativeToolTip": "Presentation\\CRMSystem.WebAPi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-26T07:36:08.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Presentation\\CRMSystem.WebAPi\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "Presentation\\CRMSystem.WebAPi\\appsettings.Production.json",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Presentation\\CRMSystem.WebAPi\\appsettings.Production.json",
+              "RelativeToolTip": "Presentation\\CRMSystem.WebAPi\\appsettings.Production.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-26T07:35:59.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Presentation\\CRMSystem.WebAPi\\Program.cs",
               "RelativeDocumentMoniker": "Presentation\\CRMSystem.WebAPi\\Program.cs",
               "ToolTip": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Presentation\\CRMSystem.WebAPi\\Program.cs",
               "RelativeToolTip": "Presentation\\CRMSystem.WebAPi\\Program.cs",
-              "ViewState": "AgIAAJcAAAAAAAAAAAAwwJ4AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwJ4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-24T12:04:08.259Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Presentation\\CRMSystem.WebAPi\\appsettings.json",
               "RelativeDocumentMoniker": "Presentation\\CRMSystem.WebAPi\\appsettings.json",
@@ -84,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "VendorsController.cs",
               "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Presentation\\CRMSystem.WebAPi\\Controllers\\VendorsController.cs",
               "RelativeDocumentMoniker": "Presentation\\CRMSystem.WebAPi\\Controllers\\VendorsController.cs",
@@ -96,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "StatisticsController.cs",
               "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Presentation\\CRMSystem.WebAPi\\Controllers\\StatisticsController.cs",
               "RelativeDocumentMoniker": "Presentation\\CRMSystem.WebAPi\\Controllers\\StatisticsController.cs",
@@ -108,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Presentation\\CRMSystem.WebAPi\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Presentation\\CRMSystem.WebAPi\\Controllers\\ProductsController.cs",
@@ -120,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Presentation\\CRMSystem.WebAPi\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "Presentation\\CRMSystem.WebAPi\\Controllers\\CategoriesController.cs",
@@ -132,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "AdminNotificationsController.cs",
               "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Presentation\\CRMSystem.WebAPi\\Controllers\\AdminNotificationsController.cs",
               "RelativeDocumentMoniker": "Presentation\\CRMSystem.WebAPi\\Controllers\\AdminNotificationsController.cs",
@@ -144,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": ".dockerignore",
               "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\.dockerignore",
               "RelativeDocumentMoniker": ".dockerignore",
@@ -156,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Core\\CRMSystem.Domain\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "Core\\CRMSystem.Domain\\Entities\\Order.cs",
