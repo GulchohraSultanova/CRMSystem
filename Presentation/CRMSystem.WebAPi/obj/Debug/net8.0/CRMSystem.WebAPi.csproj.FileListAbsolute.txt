@@ -354,3 +354,4 @@ C:\Users\gulco\source\repos\CRMSystem\Presentation\CRMSystem.WebAPi\obj\Debug\ne
 C:\Users\gulco\source\repos\CRMSystem\Presentation\CRMSystem.WebAPi\obj\Debug\net8.0\CRMSystem.WebAPi.pdb
 C:\Users\gulco\source\repos\CRMSystem\Presentation\CRMSystem.WebAPi\obj\Debug\net8.0\CRMSystem.WebAPi.genruntimeconfig.cache
 C:\Users\gulco\source\repos\CRMSystem\Presentation\CRMSystem.WebAPi\obj\Debug\net8.0\ref\CRMSystem.WebAPi.dll
+C:\Users\gulco\source\repos\CRMSystem\Presentation\CRMSystem.WebAPi\obj\Debug\net8.0\CRMSystem.WebAPi.sourcelink.json

@@ -59,7 +59,10 @@ namespace CRMSystem.WebAPi
               });
             });
             builder.Services.Configure<MailSettings>(builder.Configuration.GetSection("MailSettings"));
-            builder.WebHost.UseUrls("http://*:80");
+
+            // PORT environment variable varsa onu istifad? et, yoxdursa 8080 default olaraq
+            var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
+            builder.WebHost.UseUrls($"http://*:{port}");
 
             builder.Services.AddControllers()
 
