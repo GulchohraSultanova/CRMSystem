@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\presentation\\crmsystem.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|solutionrelative:presentation\\crmsystem.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\presentation\\crmsystem.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|solutionrelative:presentation\\crmsystem.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\presentation\\crmsystem.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|solutionrelative:presentation\\crmsystem.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\presentation\\crmsystem.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 74,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,26 +58,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Presentation\\CRMSystem.WebAPi\\Program.cs",
               "RelativeDocumentMoniker": "Presentation\\CRMSystem.WebAPi\\Program.cs",
               "ToolTip": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Presentation\\CRMSystem.WebAPi\\Program.cs",
               "RelativeToolTip": "Presentation\\CRMSystem.WebAPi\\Program.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAD4v0gAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAD4v0AAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-24T12:04:08.259Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Presentation\\CRMSystem.WebAPi\\appsettings.json",
               "RelativeDocumentMoniker": "Presentation\\CRMSystem.WebAPi\\appsettings.json",
               "ToolTip": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Presentation\\CRMSystem.WebAPi\\appsettings.json",
               "RelativeToolTip": "Presentation\\CRMSystem.WebAPi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-06-24T11:53:36.131Z",
               "EditorCaption": ""
