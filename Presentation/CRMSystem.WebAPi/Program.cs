@@ -81,7 +81,7 @@ namespace CRMSystem.WebAPi
                StatusCode = 400,
                Error = errors
            };
-
+           
            return new BadRequestObjectResult(errorResponse);
        };
    });
@@ -155,8 +155,11 @@ namespace CRMSystem.WebAPi
         private static async Task SeedData(IServiceProvider serviceProvider)
         {
             using var scope = serviceProvider.CreateScope();
+            var db = scope.ServiceProvider.GetRequiredService<CRMSystemDbContext>();
+            await db.Database.MigrateAsync(); 
             var roleManager = scope.ServiceProvider.GetRequiredService<RoleManager<IdentityRole>>();
             var userManager = scope.ServiceProvider.GetRequiredService<UserManager<Admin>>();
+          
 
             string[] roleNames = { "SuperAdmin", "Fighter", "Customer"};
 
