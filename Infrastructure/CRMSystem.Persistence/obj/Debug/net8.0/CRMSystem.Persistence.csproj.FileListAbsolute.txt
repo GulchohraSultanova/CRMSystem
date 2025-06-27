@@ -19,3 +19,4 @@ C:\Users\gulco\source\repos\CRMSystem\Infrastructure\CRMSystem.Persistence\obj\D
 C:\Users\gulco\source\repos\CRMSystem\Infrastructure\CRMSystem.Persistence\obj\Debug\net8.0\CRMSystem.Persistence.pdb
 C:\Users\gulco\source\repos\CRMSystem\Infrastructure\CRMSystem.Persistence\obj\Debug\net8.0\CRMSystem.Persistence.genruntimeconfig.cache
 C:\Users\gulco\source\repos\CRMSystem\Infrastructure\CRMSystem.Persistence\obj\Debug\net8.0\ref\CRMSystem.Persistence.dll
+C:\Users\gulco\source\repos\CRMSystem\Infrastructure\CRMSystem.Persistence\obj\Debug\net8.0\CRMSystem.Persistence.sourcelink.json

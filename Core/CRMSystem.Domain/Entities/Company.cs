@@ -12,5 +12,7 @@ namespace CRMSystem.Domain.Entities
         public string Name { get; set; }
         public string? CompanyImage { get; set; }
         public List<Department>? Departments { get; set; }
+        public List<MonthlyCalculation>? Calculations { get; set; }
+
     }
 }

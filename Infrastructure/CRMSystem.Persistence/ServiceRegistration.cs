@@ -35,6 +35,8 @@ using CRMSystem.Application.Absrtacts.Repositories.AdminNotifications;
 using CRMSystem.Persistence.Concreters.Repositories.AdminNotifications;
 using CRMSystem.Application.Absrtacts.Repositories.SectionCustomers;
 using CRMSystem.Persistence.Concreters.Repositories.SectionCustomers;
+using CRMSystem.Application.Absrtacts.Repositories.Calculator;
+using CRMSystem.Persistence.Concreters.Repositories.Calculator;
 
 namespace CRMSystem.Persistence
 {
@@ -69,6 +71,12 @@ namespace CRMSystem.Persistence
 
             services.AddScoped<ICompanyReadRepository, CompanyReadRepository>();
             services.AddScoped<ICompanyWriteRepository, CompanyWriteRepository>();
+
+            services.AddScoped<IMonthlyCalculationReadRepository,MonthlyCalculationReadRepository>();
+            services.AddScoped<IMonthlyCalculationWriteRepository, MonthlyCalculationWriteRepository>();
+            services.AddScoped<IMonthlyCalculationService, MonthlyCalculationService>();
+
+
 
             services.AddScoped<IDepartmentReadRepository, DepartmentReadRepository>();
             services.AddScoped<IDepartmentWriteRepository, DepartmentWriteRepository>();

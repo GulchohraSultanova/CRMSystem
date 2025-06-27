@@ -294,6 +294,46 @@ namespace CRMSystem.Persistence.Migrations
                     b.ToTable("Jobs");
                 });
 
+            modelBuilder.Entity("CRMSystem.Domain.Entities.MonthlyCalculation", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uuid");
+
+                    b.Property<Guid>("CompanyId")
+                        .HasColumnType("uuid");
+
+                    b.Property<DateTime>("CreatedDate")
+                        .HasColumnType("timestamp with time zone");
+
+                    b.Property<DateTime>("DeletedDate")
+                        .HasColumnType("timestamp with time zone");
+
+                    b.Property<decimal>("InitialAmount")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.Property<bool>("IsDeleted")
+                        .HasColumnType("boolean");
+
+                    b.Property<DateTime>("LastUpdatedDate")
+                        .HasColumnType("timestamp with time zone");
+
+                    b.Property<int>("Month")
+                        .HasColumnType("integer");
+
+                    b.Property<decimal>("TotalOrderAmount")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.Property<int>("Year")
+                        .HasColumnType("integer");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("CompanyId");
+
+                    b.ToTable("MonthlyCalculations", (string)null);
+                });
+
             modelBuilder.Entity("CRMSystem.Domain.Entities.Order", b =>
                 {
                     b.Property<Guid>("Id")
@@ -846,6 +886,17 @@ namespace CRMSystem.Persistence.Migrations
                     b.Navigation("Company");
                 });
 
+            modelBuilder.Entity("CRMSystem.Domain.Entities.MonthlyCalculation", b =>
+                {
+                    b.HasOne("CRMSystem.Domain.Entities.Company", "Company")
+                        .WithMany("Calculations")
+                        .HasForeignKey("CompanyId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Company");
+                });
+
             modelBuilder.Entity("CRMSystem.Domain.Entities.Order", b =>
                 {
                     b.HasOne("CRMSystem.Domain.Entities.Admin", "Admin")
@@ -1035,6 +1086,8 @@ namespace CRMSystem.Persistence.Migrations
 
             modelBuilder.Entity("CRMSystem.Domain.Entities.Company", b =>
                 {
+                    b.Navigation("Calculations");
+
                     b.Navigation("Departments");
                 });
 

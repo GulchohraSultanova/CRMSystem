@@ -58,6 +58,18 @@
               "target": "Package",
               "version": "[11.3.0, )"
             },
+            "Hangfire": {
+              "target": "Package",
+              "version": "[1.8.20, )"
+            },
+            "Hangfire.AspNetCore": {
+              "target": "Package",
+              "version": "[1.8.20, )"
+            },
+            "Hangfire.MemoryStorage": {
+              "target": "Package",
+              "version": "[1.8.1.2, )"
+            },
             "MailKit": {
               "target": "Package",
               "version": "[4.12.0, )"

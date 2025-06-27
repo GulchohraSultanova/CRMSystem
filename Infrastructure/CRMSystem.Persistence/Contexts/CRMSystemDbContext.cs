@@ -22,6 +22,8 @@ namespace CRMSystem.Persistence.Contexts
         public DbSet<Product> Products { get; set; }
         public DbSet<Section> Sections { get; set; }
         public DbSet<Vendor> Vendors { get; set; }
+        public DbSet<MonthlyCalculation> MonthlyCalculation { get; set; }
+
         public DbSet<PendingCategory> PendingCategories { get; set; }
         public DbSet<PendingProduct> PendingProducts { get; set; }
         public DbSet<AdminNotification> AdminNotifications { get; set; }
@@ -44,6 +46,7 @@ namespace CRMSystem.Persistence.Contexts
             modelBuilder.ApplyConfiguration(new PendingCategoryConfiguration());
             modelBuilder.ApplyConfiguration(new PendingProductConfiguration());
             modelBuilder.ApplyConfiguration(new AdminNotificationConfiguration());
+            modelBuilder.ApplyConfiguration(new MonthlyCalculationConfiguration());
         }
     }
 }

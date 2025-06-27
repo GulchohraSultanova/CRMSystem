@@ -17,3 +17,4 @@ C:\Users\gulco\source\repos\CRMSystem\Infrastructure\CRMSystem.Infrastructure\ob
 C:\Users\gulco\source\repos\CRMSystem\Infrastructure\CRMSystem.Infrastructure\obj\Debug\net8.0\CRMSystem.Infrastructure.pdb
 C:\Users\gulco\source\repos\CRMSystem\Infrastructure\CRMSystem.Infrastructure\obj\Debug\net8.0\CRMSystem.Infrastructure.genruntimeconfig.cache
 C:\Users\gulco\source\repos\CRMSystem\Infrastructure\CRMSystem.Infrastructure\obj\Debug\net8.0\ref\CRMSystem.Infrastructure.dll
+C:\Users\gulco\source\repos\CRMSystem\Infrastructure\CRMSystem.Infrastructure\obj\Debug\net8.0\CRMSystem.Infrastructure.sourcelink.json

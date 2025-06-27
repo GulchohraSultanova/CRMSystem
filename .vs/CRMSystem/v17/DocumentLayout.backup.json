@@ -3,36 +3,136 @@
   "WorkspaceRootPath": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\presentation\\crmsystem.webapi\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|solutionrelative:presentation\\crmsystem.webapi\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\presentation\\crmsystem.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|solutionrelative:presentation\\crmsystem.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A3A2D2-9CC8-41E2-A920-912E170A4A61}|Infrastructure\\CRMSystem.Persistence\\CRMSystem.Persistence.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\infrastructure\\crmsystem.persistence\\concreters\\services\\monthlycalculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A3A2D2-9CC8-41E2-A920-912E170A4A61}|Infrastructure\\CRMSystem.Persistence\\CRMSystem.Persistence.csproj|solutionrelative:infrastructure\\crmsystem.persistence\\concreters\\services\\monthlycalculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB10886C-4335-4AB9-BB52-E91505800E05}|Core\\CRMSystem.Application\\CRMSystem.Application.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\core\\crmsystem.application\\profiles\\monthlycalculationprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB10886C-4335-4AB9-BB52-E91505800E05}|Core\\CRMSystem.Application\\CRMSystem.Application.csproj|solutionrelative:core\\crmsystem.application\\profiles\\monthlycalculationprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB10886C-4335-4AB9-BB52-E91505800E05}|Core\\CRMSystem.Application\\CRMSystem.Application.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\core\\crmsystem.application\\profiles\\departmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB10886C-4335-4AB9-BB52-E91505800E05}|Core\\CRMSystem.Application\\CRMSystem.Application.csproj|solutionrelative:core\\crmsystem.application\\profiles\\departmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB10886C-4335-4AB9-BB52-E91505800E05}|Core\\CRMSystem.Application\\CRMSystem.Application.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\core\\crmsystem.application\\profiles\\jobprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB10886C-4335-4AB9-BB52-E91505800E05}|Core\\CRMSystem.Application\\CRMSystem.Application.csproj|solutionrelative:core\\crmsystem.application\\profiles\\jobprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB10886C-4335-4AB9-BB52-E91505800E05}|Core\\CRMSystem.Application\\CRMSystem.Application.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\core\\crmsystem.application\\profiles\\orderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB10886C-4335-4AB9-BB52-E91505800E05}|Core\\CRMSystem.Application\\CRMSystem.Application.csproj|solutionrelative:core\\crmsystem.application\\profiles\\orderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\presentation\\crmsystem.webapi\\controllers\\calculationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|solutionrelative:presentation\\crmsystem.webapi\\controllers\\calculationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A3A2D2-9CC8-41E2-A920-912E170A4A61}|Infrastructure\\CRMSystem.Persistence\\CRMSystem.Persistence.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\infrastructure\\crmsystem.persistence\\concreters\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A3A2D2-9CC8-41E2-A920-912E170A4A61}|Infrastructure\\CRMSystem.Persistence\\CRMSystem.Persistence.csproj|solutionrelative:infrastructure\\crmsystem.persistence\\concreters\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A3A2D2-9CC8-41E2-A920-912E170A4A61}|Infrastructure\\CRMSystem.Persistence\\CRMSystem.Persistence.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\infrastructure\\crmsystem.persistence\\concreters\\services\\sectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A3A2D2-9CC8-41E2-A920-912E170A4A61}|Infrastructure\\CRMSystem.Persistence\\CRMSystem.Persistence.csproj|solutionrelative:infrastructure\\crmsystem.persistence\\concreters\\services\\sectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A3A2D2-9CC8-41E2-A920-912E170A4A61}|Infrastructure\\CRMSystem.Persistence\\CRMSystem.Persistence.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\infrastructure\\crmsystem.persistence\\concreters\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A3A2D2-9CC8-41E2-A920-912E170A4A61}|Infrastructure\\CRMSystem.Persistence\\CRMSystem.Persistence.csproj|solutionrelative:infrastructure\\crmsystem.persistence\\concreters\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A3A2D2-9CC8-41E2-A920-912E170A4A61}|Infrastructure\\CRMSystem.Persistence\\CRMSystem.Persistence.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\infrastructure\\crmsystem.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A3A2D2-9CC8-41E2-A920-912E170A4A61}|Infrastructure\\CRMSystem.Persistence\\CRMSystem.Persistence.csproj|solutionrelative:infrastructure\\crmsystem.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB10886C-4335-4AB9-BB52-E91505800E05}|Core\\CRMSystem.Application\\CRMSystem.Application.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\core\\crmsystem.application\\absrtacts\\services\\imonthlycalculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB10886C-4335-4AB9-BB52-E91505800E05}|Core\\CRMSystem.Application\\CRMSystem.Application.csproj|solutionrelative:core\\crmsystem.application\\absrtacts\\services\\imonthlycalculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\presentation\\crmsystem.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|solutionrelative:presentation\\crmsystem.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\presentation\\crmsystem.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|solutionrelative:presentation\\crmsystem.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\presentation\\crmsystem.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|solutionrelative:presentation\\crmsystem.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{DB10886C-4335-4AB9-BB52-E91505800E05}|Core\\CRMSystem.Application\\CRMSystem.Application.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\core\\crmsystem.application\\absrtacts\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB10886C-4335-4AB9-BB52-E91505800E05}|Core\\CRMSystem.Application\\CRMSystem.Application.csproj|solutionrelative:core\\crmsystem.application\\absrtacts\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\presentation\\crmsystem.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|solutionrelative:presentation\\crmsystem.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\presentation\\crmsystem.webapi\\controllers\\vendorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|solutionrelative:presentation\\crmsystem.webapi\\controllers\\vendorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54A3A2D2-9CC8-41E2-A920-912E170A4A61}|Infrastructure\\CRMSystem.Persistence\\CRMSystem.Persistence.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\infrastructure\\crmsystem.persistence\\contexts\\crmsystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A3A2D2-9CC8-41E2-A920-912E170A4A61}|Infrastructure\\CRMSystem.Persistence\\CRMSystem.Persistence.csproj|solutionrelative:infrastructure\\crmsystem.persistence\\contexts\\crmsystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB10886C-4335-4AB9-BB52-E91505800E05}|Core\\CRMSystem.Application\\CRMSystem.Application.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\core\\crmsystem.application\\dtos\\calculation\\createorupdatecalculationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB10886C-4335-4AB9-BB52-E91505800E05}|Core\\CRMSystem.Application\\CRMSystem.Application.csproj|solutionrelative:core\\crmsystem.application\\dtos\\calculation\\createorupdatecalculationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB10886C-4335-4AB9-BB52-E91505800E05}|Core\\CRMSystem.Application\\CRMSystem.Application.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\core\\crmsystem.application\\absrtacts\\repositories\\calculator\\imonthlycalculationreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB10886C-4335-4AB9-BB52-E91505800E05}|Core\\CRMSystem.Application\\CRMSystem.Application.csproj|solutionrelative:core\\crmsystem.application\\absrtacts\\repositories\\calculator\\imonthlycalculationreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\presentation\\crmsystem.webapi\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|solutionrelative:presentation\\crmsystem.webapi\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\presentation\\crmsystem.webapi\\controllers\\vendorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|solutionrelative:presentation\\crmsystem.webapi\\controllers\\vendorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A3A2D2-9CC8-41E2-A920-912E170A4A61}|Infrastructure\\CRMSystem.Persistence\\CRMSystem.Persistence.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\infrastructure\\crmsystem.persistence\\concreters\\repositories\\calculator\\monthlycalculationreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A3A2D2-9CC8-41E2-A920-912E170A4A61}|Infrastructure\\CRMSystem.Persistence\\CRMSystem.Persistence.csproj|solutionrelative:infrastructure\\crmsystem.persistence\\concreters\\repositories\\calculator\\monthlycalculationreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A3A2D2-9CC8-41E2-A920-912E170A4A61}|Infrastructure\\CRMSystem.Persistence\\CRMSystem.Persistence.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\infrastructure\\crmsystem.persistence\\concreters\\repositories\\calculator\\monthlycalculationwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A3A2D2-9CC8-41E2-A920-912E170A4A61}|Infrastructure\\CRMSystem.Persistence\\CRMSystem.Persistence.csproj|solutionrelative:infrastructure\\crmsystem.persistence\\concreters\\repositories\\calculator\\monthlycalculationwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A3A2D2-9CC8-41E2-A920-912E170A4A61}|Infrastructure\\CRMSystem.Persistence\\CRMSystem.Persistence.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\infrastructure\\crmsystem.persistence\\concreters\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A3A2D2-9CC8-41E2-A920-912E170A4A61}|Infrastructure\\CRMSystem.Persistence\\CRMSystem.Persistence.csproj|solutionrelative:infrastructure\\crmsystem.persistence\\concreters\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB10886C-4335-4AB9-BB52-E91505800E05}|Core\\CRMSystem.Application\\CRMSystem.Application.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\core\\crmsystem.application\\dtos\\calculation\\calculationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB10886C-4335-4AB9-BB52-E91505800E05}|Core\\CRMSystem.Application\\CRMSystem.Application.csproj|solutionrelative:core\\crmsystem.application\\dtos\\calculation\\calculationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\presentation\\crmsystem.webapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|solutionrelative:presentation\\crmsystem.webapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\presentation\\crmsystem.webapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|solutionrelative:presentation\\crmsystem.webapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A3A2D2-9CC8-41E2-A920-912E170A4A61}|Infrastructure\\CRMSystem.Persistence\\CRMSystem.Persistence.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\infrastructure\\crmsystem.persistence\\concreters\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A3A2D2-9CC8-41E2-A920-912E170A4A61}|Infrastructure\\CRMSystem.Persistence\\CRMSystem.Persistence.csproj|solutionrelative:infrastructure\\crmsystem.persistence\\concreters\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB10886C-4335-4AB9-BB52-E91505800E05}|Core\\CRMSystem.Application\\CRMSystem.Application.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\core\\crmsystem.application\\absrtacts\\repositories\\calculator\\imonthlycalculationwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB10886C-4335-4AB9-BB52-E91505800E05}|Core\\CRMSystem.Application\\CRMSystem.Application.csproj|solutionrelative:core\\crmsystem.application\\absrtacts\\repositories\\calculator\\imonthlycalculationwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A3A2D2-9CC8-41E2-A920-912E170A4A61}|Infrastructure\\CRMSystem.Persistence\\CRMSystem.Persistence.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\infrastructure\\crmsystem.persistence\\configuration\\monthlycalculationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A3A2D2-9CC8-41E2-A920-912E170A4A61}|Infrastructure\\CRMSystem.Persistence\\CRMSystem.Persistence.csproj|solutionrelative:infrastructure\\crmsystem.persistence\\configuration\\monthlycalculationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B33E02-B709-4B6E-8378-53EC2EEC716C}|Core\\CRMSystem.Domain\\CRMSystem.Domain.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\core\\crmsystem.domain\\entities\\monthlycalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B33E02-B709-4B6E-8378-53EC2EEC716C}|Core\\CRMSystem.Domain\\CRMSystem.Domain.csproj|solutionrelative:core\\crmsystem.domain\\entities\\monthlycalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B33E02-B709-4B6E-8378-53EC2EEC716C}|Core\\CRMSystem.Domain\\CRMSystem.Domain.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\core\\crmsystem.domain\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B33E02-B709-4B6E-8378-53EC2EEC716C}|Core\\CRMSystem.Domain\\CRMSystem.Domain.csproj|solutionrelative:core\\crmsystem.domain\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\presentation\\crmsystem.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|solutionrelative:presentation\\crmsystem.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\presentation\\crmsystem.webapi\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|solutionrelative:presentation\\crmsystem.webapi\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5FD4617-8EB3-40DB-BD16-BBFAEE7D099F}|Presentation\\CRMSystem.WebAPi\\CRMSystem.WebAPi.csproj|c:\\users\\gulco\\source\\repos\\crmsystem\\presentation\\crmsystem.webapi\\controllers\\adminnotificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,7 +154,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 74,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 29,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,56 +166,357 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Presentation\\CRMSystem.WebAPi\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "Presentation\\CRMSystem.WebAPi\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Presentation\\CRMSystem.WebAPi\\appsettings.Development.json",
-              "RelativeToolTip": "Presentation\\CRMSystem.WebAPi\\appsettings.Development.json",
+              "DocumentIndex": 3,
+              "Title": "DepartmentProfile.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Core\\CRMSystem.Application\\Profiles\\DepartmentProfile.cs",
+              "RelativeDocumentMoniker": "Core\\CRMSystem.Application\\Profiles\\DepartmentProfile.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Core\\CRMSystem.Application\\Profiles\\DepartmentProfile.cs",
+              "RelativeToolTip": "Core\\CRMSystem.Application\\Profiles\\DepartmentProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-26T07:36:08.242Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T13:56:34.434Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.Production.json",
-              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Presentation\\CRMSystem.WebAPi\\appsettings.Production.json",
-              "RelativeDocumentMoniker": "Presentation\\CRMSystem.WebAPi\\appsettings.Production.json",
-              "ToolTip": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Presentation\\CRMSystem.WebAPi\\appsettings.Production.json",
-              "RelativeToolTip": "Presentation\\CRMSystem.WebAPi\\appsettings.Production.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-26T07:35:59.019Z",
+              "DocumentIndex": 4,
+              "Title": "JobProfile.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Core\\CRMSystem.Application\\Profiles\\JobProfile.cs",
+              "RelativeDocumentMoniker": "Core\\CRMSystem.Application\\Profiles\\JobProfile.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Core\\CRMSystem.Application\\Profiles\\JobProfile.cs",
+              "RelativeToolTip": "Core\\CRMSystem.Application\\Profiles\\JobProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T13:56:33.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderProfile.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Core\\CRMSystem.Application\\Profiles\\OrderProfile.cs",
+              "RelativeDocumentMoniker": "Core\\CRMSystem.Application\\Profiles\\OrderProfile.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Core\\CRMSystem.Application\\Profiles\\OrderProfile.cs",
+              "RelativeToolTip": "Core\\CRMSystem.Application\\Profiles\\OrderProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T13:56:32.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Infrastructure\\CRMSystem.Persistence\\Concreters\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\CRMSystem.Persistence\\Concreters\\Services\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Infrastructure\\CRMSystem.Persistence\\Concreters\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "Infrastructure\\CRMSystem.Persistence\\Concreters\\Services\\DepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T13:46:28.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SectionService.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Infrastructure\\CRMSystem.Persistence\\Concreters\\Services\\SectionService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\CRMSystem.Persistence\\Concreters\\Services\\SectionService.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Infrastructure\\CRMSystem.Persistence\\Concreters\\Services\\SectionService.cs",
+              "RelativeToolTip": "Infrastructure\\CRMSystem.Persistence\\Concreters\\Services\\SectionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T13:46:17.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CalculationsController.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Presentation\\CRMSystem.WebAPi\\Controllers\\CalculationsController.cs",
+              "RelativeDocumentMoniker": "Presentation\\CRMSystem.WebAPi\\Controllers\\CalculationsController.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Presentation\\CRMSystem.WebAPi\\Controllers\\CalculationsController.cs",
+              "RelativeToolTip": "Presentation\\CRMSystem.WebAPi\\Controllers\\CalculationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:39:14.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Core\\CRMSystem.Application\\Absrtacts\\Repositories\\IReadRepository.cs",
+              "RelativeDocumentMoniker": "Core\\CRMSystem.Application\\Absrtacts\\Repositories\\IReadRepository.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Core\\CRMSystem.Application\\Absrtacts\\Repositories\\IReadRepository.cs",
+              "RelativeToolTip": "Core\\CRMSystem.Application\\Absrtacts\\Repositories\\IReadRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:30:07.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Infrastructure\\CRMSystem.Persistence\\Concreters\\Repositories\\ReadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\CRMSystem.Persistence\\Concreters\\Repositories\\ReadRepository.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Infrastructure\\CRMSystem.Persistence\\Concreters\\Repositories\\ReadRepository.cs",
+              "RelativeToolTip": "Infrastructure\\CRMSystem.Persistence\\Concreters\\Repositories\\ReadRepository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwD8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:17:05.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MonthlyCalculationService.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Infrastructure\\CRMSystem.Persistence\\Concreters\\Services\\MonthlyCalculationService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\CRMSystem.Persistence\\Concreters\\Services\\MonthlyCalculationService.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Infrastructure\\CRMSystem.Persistence\\Concreters\\Services\\MonthlyCalculationService.cs",
+              "RelativeToolTip": "Infrastructure\\CRMSystem.Persistence\\Concreters\\Services\\MonthlyCalculationService.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAF0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:10:41.575Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "MonthlyCalculationProfile.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Core\\CRMSystem.Application\\Profiles\\MonthlyCalculationProfile.cs",
+              "RelativeDocumentMoniker": "Core\\CRMSystem.Application\\Profiles\\MonthlyCalculationProfile.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Core\\CRMSystem.Application\\Profiles\\MonthlyCalculationProfile.cs",
+              "RelativeToolTip": "Core\\CRMSystem.Application\\Profiles\\MonthlyCalculationProfile.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:09:15.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IMonthlyCalculationService.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Core\\CRMSystem.Application\\Absrtacts\\Services\\IMonthlyCalculationService.cs",
+              "RelativeDocumentMoniker": "Core\\CRMSystem.Application\\Absrtacts\\Services\\IMonthlyCalculationService.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Core\\CRMSystem.Application\\Absrtacts\\Services\\IMonthlyCalculationService.cs",
+              "RelativeToolTip": "Core\\CRMSystem.Application\\Absrtacts\\Services\\IMonthlyCalculationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:07:39.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateOrUpdateCalculationDto.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Core\\CRMSystem.Application\\Dtos\\Calculation\\CreateOrUpdateCalculationDto.cs",
+              "RelativeDocumentMoniker": "Core\\CRMSystem.Application\\Dtos\\Calculation\\CreateOrUpdateCalculationDto.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Core\\CRMSystem.Application\\Dtos\\Calculation\\CreateOrUpdateCalculationDto.cs",
+              "RelativeToolTip": "Core\\CRMSystem.Application\\Dtos\\Calculation\\CreateOrUpdateCalculationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:07:01.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CalculationDto.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Core\\CRMSystem.Application\\Dtos\\Calculation\\CalculationDto.cs",
+              "RelativeDocumentMoniker": "Core\\CRMSystem.Application\\Dtos\\Calculation\\CalculationDto.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Core\\CRMSystem.Application\\Dtos\\Calculation\\CalculationDto.cs",
+              "RelativeToolTip": "Core\\CRMSystem.Application\\Dtos\\Calculation\\CalculationDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:05:14.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Presentation\\CRMSystem.WebAPi\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Presentation\\CRMSystem.WebAPi\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Presentation\\CRMSystem.WebAPi\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Presentation\\CRMSystem.WebAPi\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAPcAAAAAAAAAAAAmwBEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T11:59:53.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Infrastructure\\CRMSystem.Persistence\\Concreters\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\CRMSystem.Persistence\\Concreters\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Infrastructure\\CRMSystem.Persistence\\Concreters\\Services\\OrderService.cs",
+              "RelativeToolTip": "Infrastructure\\CRMSystem.Persistence\\Concreters\\Services\\OrderService.cs",
+              "ViewState": "AgIAANMCAAAAAAAAAAAkwO0CAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T11:53:52.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Infrastructure\\CRMSystem.Persistence\\Concreters\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\CRMSystem.Persistence\\Concreters\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Infrastructure\\CRMSystem.Persistence\\Concreters\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Infrastructure\\CRMSystem.Persistence\\Concreters\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwEoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T11:51:53.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Infrastructure\\CRMSystem.Persistence\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\CRMSystem.Persistence\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Infrastructure\\CRMSystem.Persistence\\ServiceRegistration.cs",
+              "RelativeToolTip": "Infrastructure\\CRMSystem.Persistence\\ServiceRegistration.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAgwEwAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T11:50:06.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MonthlyCalculationWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Infrastructure\\CRMSystem.Persistence\\Concreters\\Repositories\\Calculator\\MonthlyCalculationWriteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\CRMSystem.Persistence\\Concreters\\Repositories\\Calculator\\MonthlyCalculationWriteRepository.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Infrastructure\\CRMSystem.Persistence\\Concreters\\Repositories\\Calculator\\MonthlyCalculationWriteRepository.cs",
+              "RelativeToolTip": "Infrastructure\\CRMSystem.Persistence\\Concreters\\Repositories\\Calculator\\MonthlyCalculationWriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T11:49:21.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MonthlyCalculationReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Infrastructure\\CRMSystem.Persistence\\Concreters\\Repositories\\Calculator\\MonthlyCalculationReadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\CRMSystem.Persistence\\Concreters\\Repositories\\Calculator\\MonthlyCalculationReadRepository.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Infrastructure\\CRMSystem.Persistence\\Concreters\\Repositories\\Calculator\\MonthlyCalculationReadRepository.cs",
+              "RelativeToolTip": "Infrastructure\\CRMSystem.Persistence\\Concreters\\Repositories\\Calculator\\MonthlyCalculationReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T11:48:34.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IMonthlyCalculationWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Core\\CRMSystem.Application\\Absrtacts\\Repositories\\Calculator\\IMonthlyCalculationWriteRepository.cs",
+              "RelativeDocumentMoniker": "Core\\CRMSystem.Application\\Absrtacts\\Repositories\\Calculator\\IMonthlyCalculationWriteRepository.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Core\\CRMSystem.Application\\Absrtacts\\Repositories\\Calculator\\IMonthlyCalculationWriteRepository.cs",
+              "RelativeToolTip": "Core\\CRMSystem.Application\\Absrtacts\\Repositories\\Calculator\\IMonthlyCalculationWriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T11:47:34.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IMonthlyCalculationReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Core\\CRMSystem.Application\\Absrtacts\\Repositories\\Calculator\\IMonthlyCalculationReadRepository.cs",
+              "RelativeDocumentMoniker": "Core\\CRMSystem.Application\\Absrtacts\\Repositories\\Calculator\\IMonthlyCalculationReadRepository.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Core\\CRMSystem.Application\\Absrtacts\\Repositories\\Calculator\\IMonthlyCalculationReadRepository.cs",
+              "RelativeToolTip": "Core\\CRMSystem.Application\\Absrtacts\\Repositories\\Calculator\\IMonthlyCalculationReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T11:46:50.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CRMSystemDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Infrastructure\\CRMSystem.Persistence\\Contexts\\CRMSystemDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\CRMSystem.Persistence\\Contexts\\CRMSystemDbContext.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Infrastructure\\CRMSystem.Persistence\\Contexts\\CRMSystemDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\CRMSystem.Persistence\\Contexts\\CRMSystemDbContext.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T11:43:08.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MonthlyCalculationConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Infrastructure\\CRMSystem.Persistence\\Configuration\\MonthlyCalculationConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\CRMSystem.Persistence\\Configuration\\MonthlyCalculationConfiguration.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Infrastructure\\CRMSystem.Persistence\\Configuration\\MonthlyCalculationConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\CRMSystem.Persistence\\Configuration\\MonthlyCalculationConfiguration.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T11:41:09.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MonthlyCalculation.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Core\\CRMSystem.Domain\\Entities\\MonthlyCalculation.cs",
+              "RelativeDocumentMoniker": "Core\\CRMSystem.Domain\\Entities\\MonthlyCalculation.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Core\\CRMSystem.Domain\\Entities\\MonthlyCalculation.cs",
+              "RelativeToolTip": "Core\\CRMSystem.Domain\\Entities\\MonthlyCalculation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T11:39:04.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Core\\CRMSystem.Domain\\Entities\\Company.cs",
+              "RelativeDocumentMoniker": "Core\\CRMSystem.Domain\\Entities\\Company.cs",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Core\\CRMSystem.Domain\\Entities\\Company.cs",
+              "RelativeToolTip": "Core\\CRMSystem.Domain\\Entities\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T11:36:10.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Presentation\\CRMSystem.WebAPi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Presentation\\CRMSystem.WebAPi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Presentation\\CRMSystem.WebAPi\\appsettings.Development.json",
+              "RelativeToolTip": "Presentation\\CRMSystem.WebAPi\\appsettings.Development.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-26T07:36:08.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Presentation\\CRMSystem.WebAPi\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "Presentation\\CRMSystem.WebAPi\\appsettings.Production.json",
+              "ToolTip": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Presentation\\CRMSystem.WebAPi\\appsettings.Production.json",
+              "RelativeToolTip": "Presentation\\CRMSystem.WebAPi\\appsettings.Production.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-26T07:35:59.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Presentation\\CRMSystem.WebAPi\\Program.cs",
               "RelativeDocumentMoniker": "Presentation\\CRMSystem.WebAPi\\Program.cs",
               "ToolTip": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Presentation\\CRMSystem.WebAPi\\Program.cs",
               "RelativeToolTip": "Presentation\\CRMSystem.WebAPi\\Program.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAwwJ4AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T12:04:08.259Z"
+              "WhenOpened": "2025-06-24T12:04:08.259Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 31,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Presentation\\CRMSystem.WebAPi\\appsettings.json",
               "RelativeDocumentMoniker": "Presentation\\CRMSystem.WebAPi\\appsettings.json",
               "ToolTip": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Presentation\\CRMSystem.WebAPi\\appsettings.json",
               "RelativeToolTip": "Presentation\\CRMSystem.WebAPi\\appsettings.json",
-              "ViewState": "AgIAAAYAAAAAAAAAAADwvxgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-06-24T11:53:36.131Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 19,
               "Title": "VendorsController.cs",
               "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Presentation\\CRMSystem.WebAPi\\Controllers\\VendorsController.cs",
               "RelativeDocumentMoniker": "Presentation\\CRMSystem.WebAPi\\Controllers\\VendorsController.cs",
@@ -127,7 +528,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 18,
               "Title": "StatisticsController.cs",
               "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Presentation\\CRMSystem.WebAPi\\Controllers\\StatisticsController.cs",
               "RelativeDocumentMoniker": "Presentation\\CRMSystem.WebAPi\\Controllers\\StatisticsController.cs",
@@ -139,7 +540,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Presentation\\CRMSystem.WebAPi\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Presentation\\CRMSystem.WebAPi\\Controllers\\ProductsController.cs",
@@ -151,19 +552,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 25,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Presentation\\CRMSystem.WebAPi\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "Presentation\\CRMSystem.WebAPi\\Controllers\\CategoriesController.cs",
               "ToolTip": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Presentation\\CRMSystem.WebAPi\\Controllers\\CategoriesController.cs",
               "RelativeToolTip": "Presentation\\CRMSystem.WebAPi\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-24T11:40:26.075Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 33,
               "Title": "AdminNotificationsController.cs",
               "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Presentation\\CRMSystem.WebAPi\\Controllers\\AdminNotificationsController.cs",
               "RelativeDocumentMoniker": "Presentation\\CRMSystem.WebAPi\\Controllers\\AdminNotificationsController.cs",
@@ -175,7 +576,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 35,
               "Title": ".dockerignore",
               "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\.dockerignore",
               "RelativeDocumentMoniker": ".dockerignore",
@@ -187,13 +588,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 34,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Core\\CRMSystem.Domain\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "Core\\CRMSystem.Domain\\Entities\\Order.cs",
               "ToolTip": "C:\\Users\\gulco\\source\\repos\\CRMSystem\\Core\\CRMSystem.Domain\\Entities\\Order.cs",
               "RelativeToolTip": "Core\\CRMSystem.Domain\\Entities\\Order.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-24T07:52:24.009Z"
             }

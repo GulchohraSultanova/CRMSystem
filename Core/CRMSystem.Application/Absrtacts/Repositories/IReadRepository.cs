@@ -19,12 +19,11 @@ namespace CRMSystem.Application.Absrtacts.Repositories
            Func<IQueryable<T>, IOrderedQueryable<T>>? orderBy = null,
            bool EnableTraking = false
            );
-        Task<T> GetAsync
-        (
-        Expression<Func<T, bool>> func,
-        Func<IQueryable<T>, IIncludableQueryable<T, object>>? include = null,
-        bool enableTracking = false
-        );
+        Task<T> GetAsync(
+              Expression<Func<T, bool>> predicate,
+              Func<IQueryable<T>, IIncludableQueryable<T, object>>? include = null,
+              Func<IQueryable<T>, IOrderedQueryable<T>>? orderBy = null,
+              bool enableTracking = false);
 
         Task<int> GetCountAsync(Expression<Func<T, bool>>? func = null);
         IQueryable<T> GetQueryable();

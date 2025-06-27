@@ -61,7 +61,11 @@ namespace CRMSystem.Persistence.Concreters.Repositories
             return entity;
         }
 
-        public async Task<T> GetAsync(Expression<Func<T, bool>> predicate, Func<IQueryable<T>, IIncludableQueryable<T, object>>? include = null, bool enableTracking = false)
+        public async Task<T> GetAsync(
+           Expression<Func<T, bool>> predicate,
+           Func<IQueryable<T>, IIncludableQueryable<T, object>>? include = null,
+           Func<IQueryable<T>, IOrderedQueryable<T>>? orderBy = null,
+           bool enableTracking = false)
         {
             IQueryable<T> query = Table;
 
@@ -71,7 +75,12 @@ namespace CRMSystem.Persistence.Concreters.Repositories
             if (include != null)
                 query = include(query);
 
-            return await query.FirstOrDefaultAsync(predicate);
+            query = query.Where(predicate);
+
+            if (orderBy != null)
+                query = orderBy(query);
+
+            return await query.FirstOrDefaultAsync();
         }
 
 

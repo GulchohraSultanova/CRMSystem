@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRMSystem.WebAPi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1234ad1bef4d066017ae6d52bdb8ebe392fc05f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+557ce3c5a8efb7c32fbb3da2f8ed3b2bfe039197")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRMSystem.WebAPi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRMSystem.WebAPi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
